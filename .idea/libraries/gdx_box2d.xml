@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gdx-box2d">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/com/badlogicgames/gdx/gdx-box2d" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/com/badlogicgames/gdx/gdx-box2d" recursive="false" />
+  </library>
+</component>

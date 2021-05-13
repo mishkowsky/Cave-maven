@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cave-maven.iml" filepath="$PROJECT_DIR$/.idea/Cave-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cave/cave.iml" filepath="$PROJECT_DIR$/cave/cave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cave/android/cave-android.iml" filepath="$PROJECT_DIR$/cave/android/cave-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cave/core/cave-core.iml" filepath="$PROJECT_DIR$/cave/core/cave-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cave/desktop/cave-desktop.iml" filepath="$PROJECT_DIR$/cave/desktop/cave-desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cave/html/cave-html.iml" filepath="$PROJECT_DIR$/cave/html/cave-html.iml" />
+    </modules>
+  </component>
+</project>
